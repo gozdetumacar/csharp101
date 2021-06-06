@@ -1,0 +1,16 @@
+C:\Users\Monster\Desktop\csharp101\generic-list\bin\Debug\net5.0\generic-list.exe
+C:\Users\Monster\Desktop\csharp101\generic-list\bin\Debug\net5.0\generic-list.deps.json
+C:\Users\Monster\Desktop\csharp101\generic-list\bin\Debug\net5.0\generic-list.runtimeconfig.json
+C:\Users\Monster\Desktop\csharp101\generic-list\bin\Debug\net5.0\generic-list.runtimeconfig.dev.json
+C:\Users\Monster\Desktop\csharp101\generic-list\bin\Debug\net5.0\generic-list.dll
+C:\Users\Monster\Desktop\csharp101\generic-list\bin\Debug\net5.0\ref\generic-list.dll
+C:\Users\Monster\Desktop\csharp101\generic-list\bin\Debug\net5.0\generic-list.pdb
+C:\Users\Monster\Desktop\csharp101\generic-list\obj\Debug\net5.0\generic-list.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\csharp101\generic-list\obj\Debug\net5.0\generic-list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\csharp101\generic-list\obj\Debug\net5.0\generic-list.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\csharp101\generic-list\obj\Debug\net5.0\generic-list.AssemblyInfo.cs
+C:\Users\Monster\Desktop\csharp101\generic-list\obj\Debug\net5.0\generic-list.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\csharp101\generic-list\obj\Debug\net5.0\generic-list.dll
+C:\Users\Monster\Desktop\csharp101\generic-list\obj\Debug\net5.0\ref\generic-list.dll
+C:\Users\Monster\Desktop\csharp101\generic-list\obj\Debug\net5.0\generic-list.pdb
+C:\Users\Monster\Desktop\csharp101\generic-list\obj\Debug\net5.0\generic-list.genruntimeconfig.cache
