@@ -1,0 +1,16 @@
+C:\Users\Monster\Desktop\csharp101\hazir-metotlar-datetime-math\bin\Debug\net5.0\hazir-metotlar-datetime-math.exe
+C:\Users\Monster\Desktop\csharp101\hazir-metotlar-datetime-math\bin\Debug\net5.0\hazir-metotlar-datetime-math.deps.json
+C:\Users\Monster\Desktop\csharp101\hazir-metotlar-datetime-math\bin\Debug\net5.0\hazir-metotlar-datetime-math.runtimeconfig.json
+C:\Users\Monster\Desktop\csharp101\hazir-metotlar-datetime-math\bin\Debug\net5.0\hazir-metotlar-datetime-math.runtimeconfig.dev.json
+C:\Users\Monster\Desktop\csharp101\hazir-metotlar-datetime-math\bin\Debug\net5.0\hazir-metotlar-datetime-math.dll
+C:\Users\Monster\Desktop\csharp101\hazir-metotlar-datetime-math\bin\Debug\net5.0\ref\hazir-metotlar-datetime-math.dll
+C:\Users\Monster\Desktop\csharp101\hazir-metotlar-datetime-math\bin\Debug\net5.0\hazir-metotlar-datetime-math.pdb
+C:\Users\Monster\Desktop\csharp101\hazir-metotlar-datetime-math\obj\Debug\net5.0\hazir-metotlar-datetime-math.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\csharp101\hazir-metotlar-datetime-math\obj\Debug\net5.0\hazir-metotlar-datetime-math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\csharp101\hazir-metotlar-datetime-math\obj\Debug\net5.0\hazir-metotlar-datetime-math.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\csharp101\hazir-metotlar-datetime-math\obj\Debug\net5.0\hazir-metotlar-datetime-math.AssemblyInfo.cs
+C:\Users\Monster\Desktop\csharp101\hazir-metotlar-datetime-math\obj\Debug\net5.0\hazir-metotlar-datetime-math.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\csharp101\hazir-metotlar-datetime-math\obj\Debug\net5.0\hazir-metotlar-datetime-math.dll
+C:\Users\Monster\Desktop\csharp101\hazir-metotlar-datetime-math\obj\Debug\net5.0\ref\hazir-metotlar-datetime-math.dll
+C:\Users\Monster\Desktop\csharp101\hazir-metotlar-datetime-math\obj\Debug\net5.0\hazir-metotlar-datetime-math.pdb
+C:\Users\Monster\Desktop\csharp101\hazir-metotlar-datetime-math\obj\Debug\net5.0\hazir-metotlar-datetime-math.genruntimeconfig.cache
